@@ -1,25 +1,26 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: #f3f4f6;
+    background-color: #223a507d;
     padding: 20px;
+    background: rgb(90, 115, 189);
 }
 
 .weather-app {
     max-width: 400px;
     margin: 0 auto;
     padding: 20px;
-    background: #fff;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
+    background: #4244b8;
+    box-shadow: 0 4px 6px rgba(227, 231, 231, 0.236);
+    border-radius: 10px;
 }
 
 input, button {
     margin: 10px 0;
     padding: 10px;
-    width: 100%;
+    width: 70%;
     border: 1px solid #ccc;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 button {

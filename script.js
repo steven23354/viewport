@@ -22,7 +22,7 @@ function fetchWeather(city) {
             if (!response.ok) {
                 throw new Error(`City not found`);
             }
-            return response.json();
+            return response.json(); 
         })
         .then(data => displayWeather(data))
         .catch(error => {

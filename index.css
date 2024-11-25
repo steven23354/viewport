@@ -36,3 +36,6 @@ button:hover {
 #weatherResult {
     margin-top: 20px;
 }
+h2 , p ,h1{
+    color: white;
+}
